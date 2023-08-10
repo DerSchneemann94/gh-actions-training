@@ -1,6 +1,6 @@
 # This README has been conquered by ME! 
 # 2n try because i failed the first commit!!
-
+# 3d turns out skip ci is written without a "." (skip.ci)
 # GitHub Actions Fundamentals
 
 Repo for the `GitHub Actions Fundamentals` training.
